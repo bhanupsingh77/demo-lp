@@ -1,1 +1,1 @@
-# React library used - react-image-comparison-slider
+#### React library used - react-image-comparison-slider
