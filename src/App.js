@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Header from '../src/components/Header.js';
+import ImageUploader from '../src/components/ImageUploader.js';
+import ProductShowcase from '../src/components/ProductShowcase.js';
+import ImageDrager from '../src/components/ImageDrager.js';
+import StaticSec1 from '../src/components/StaticSec1.js';
+import StaticSec2 from '../src/components/StaticSec2.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  constructor(props) {
+    super(props)
+
+
+  }
+
+  render() {
+    return (
+      <div>
+        <Header />
+        <ImageUploader />
+        <ProductShowcase />
+        <ImageDrager />
+        <StaticSec1 />
+        <StaticSec2 />
+      </div>
+    )
+  }
 }
 
 export default App;

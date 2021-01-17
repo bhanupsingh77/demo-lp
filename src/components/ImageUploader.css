@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.ImageUploader-title{
+    position: absolute;
+    width: 447px;
+    height: 98px;
+    left: 56px;
+    top: 149px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 45px;
+    /* or 107% */
+
+
+    /* purple/purple80 */
+
+    color: #1C1E52;
+
+}
+
+.ImageUploader-title-highlighter{
+
+    color: #FF3503;
+}
+
+.ImageUploader-title-small-font{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+.ImageUploader-img1{
+    position: absolute;
+    left: 643.61px;
+    top: -573px;
+}
+
+.ImageUploader-img1-container{
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding: 0;
+    position: relative;
+    height: 100vh;
+}
+
+
+.ImageUploader-img2{
+    position: absolute;
+    width: 970px;
+    height: 649px;
+    left: 443px;
+    top: 16px;
+}
+
+.ImageUploader-img3{
+    position: absolute;
+    left: 14.95%;
+    right: 83.72%;
+    top: 46.93%;
+    bottom: 48.29%;
+    
+    color: #444444;
+
+    height: 35.093719482421875px;
+    width: 18.181549072265625px;
+    left: 204.2669677734375px;
+    top: 344.468017578125px;
+    border-radius: 0px;
+
+
+}
+
+.ImageUploader-img4{
+    position: absolute;
+    left: 13.62%;
+    right: 82.38%;
+    top: 44.99%;
+    bottom: 49.96%;
+
+    color: #444444;
+
+    height: 37.059814453125px;
+    width: 54.666656494140625px;
+    left: 186px;
+    top: 330.21728515625px;
+    border-radius: 0px;
+
+    
+}
+
+.ImageUploader-input-box{
+    position: absolute;
+    width: 309px;
+    height: 218px;
+    left: 56px;
+    top: 288px;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='23' ry='23' stroke='%23333' stroke-width='4' stroke-dasharray='6%2c 14' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
+    border-radius: 23px;
+    box-sizing: border-box;
+    box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 23px;
+}
+
+.ImageUploader-input{
+    position: absolute;
+    width: 161px;
+    height: 64px;
+    left: 133px;
+    top: 397px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 64px;
+    /* identical to box height, or 400% */
+
+
+    color: #000000;
+
+}
+
+.ImageUploader-text-box1{
+    position: absolute;
+    width: 205px;
+    height: 64px;
+    left: 111px;
+    top: 365px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 64px;
+    /* identical to box height, or 267% */
+
+
+    color: #000000;
+}

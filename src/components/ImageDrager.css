@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+.drager-title {
+  position: absolute;
+  width: 574px;
+  height: 48px;
+  left: 396px;
+  top: 1522px;
+
+  font-family: Poppins;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 45px;
+  /* or 118% */
+
+  /* purple/purple80 */
+
+  color: #1c1e52;
+}
+
+.drager-img-slider {
+  position: absolute;
+  width: 754px;
+  height: 499px;
+  left: 306px;
+  top: 1656px;
+}
+
+.drager-nav-bar{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 45px;
+  /* identical to box height, or 225% */
+ 
+
+}
+
+.drager-nav-bar-item1 {
+  position: absolute;
+  width: 73px;
+  height: 45px;
+  left: 397px;
+  top: 1581px;
+  color: #ff3503;
+}
+
+.drager-nav-bar-item2 {
+  position: absolute;
+  width: 89px;
+  height: 45px;
+  left: 519px;
+  top: 1581px;
+  color: #444444;
+  text-decoration: none;
+}
+
+.drager-nav-bar-item3 {
+  position: absolute;
+  width: 80px;
+  height: 45px;
+  left: 657px;
+  top: 1581px;
+  color: #444444;
+  text-decoration: none;
+}
+
+.drager-nav-bar-item4 {
+  position: absolute;
+  width: 94px;
+  height: 45px;
+  left: 785px;
+  top: 1581px;
+  color: #444444;
+  text-decoration: none;
+}
+
+.drager-nav-bar-item5 {
+  position: absolute;
+  width: 37px;
+  height: 45px;
+  left: 928px;
+  top: 1581px;
+  color: #444444;
+  text-decoration: none;
+}

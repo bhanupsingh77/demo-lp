@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.StaticSec1-bg{
+    position: absolute;
+    width: 1366px;
+    height: 600px;
+    left: 0px;
+    top: 2209px;
+
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%);
+}
+
+.StaticSec1-img1{
+    position: absolute;
+    width: 600px;
+    height: 338px;
+    left: 57px;
+    top: 2340px;
+}
+
+.StaticSec1-text-box-container{
+    position: absolute;
+    width: 388px;
+    height: 241px;
+    left: 787px;
+    top: 2363px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 45px;
+    /* or 118% */
+
+
+    /* purple/purple80 */
+
+    color: #1C1E52;
+}
+
+.StaticSec1-text-box1{
+
+}
+
+.StaticSec1-text-box2{
+    margin-top: 40px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 281% */
+    color: #747474;
+
+    
+}
+
+.StaticSec1-text-box3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 170px;
+    
+}
+
+.StaticSec1-text-box3-highlighter{
+    color: #FF3503;
+}
+
+.StaticSec1-button{
+    position: absolute;
+    border: 0px;
+    width: 178px;
+    height: 43px;
+    left: 787px;
+    top: 2610px;
+    color: #FFFFFF;
+    background: #FF3503;
+    border-radius: 20px;
+
+}

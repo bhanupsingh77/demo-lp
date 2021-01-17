@@ -1,0 +1,224 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+.StaticSec2-title{
+    position: absolute;
+    width: 607px;
+    height: 45px;
+    left: 398px;
+    top: 2863px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 45px;
+    /* identical to box height, or 118% */
+
+
+    /* purple/purple80 */
+
+    color: #1C1E52;
+
+}
+
+.StaticSec2-nav-bar{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 45px;
+    /* identical to box height, or 225% */
+}
+
+.StaticSec2-nav-bar-item1{
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 398px;
+    top: 2919px;
+    color: #FF3503;
+
+}
+
+.StaticSec2-nav-bar-item2{
+    position: absolute;
+    width: 94px;
+    height: 45px;
+    left: 597px;
+    top: 2919px;
+    color: #444444;
+    text-decoration: none;
+
+    
+}
+
+.StaticSec2-nav-bar-item3{
+    position: absolute;
+    width: 79px;
+    height: 45px;
+    left: 740px;
+    top: 2919px;
+    color: #444444;
+    text-decoration: none;
+
+
+    
+}
+
+.StaticSec2-text-box3-highlighter{
+    color: #FF3503;
+
+}
+
+.StaticSec2-nav-bar-item4{
+    position: absolute;
+    width: 90px;
+    height: 45px;
+    left: 868px;
+    top: 2919px;
+    color: #444444;
+    text-decoration: none;
+
+
+    
+}
+
+.StaticSec2-img1{
+    position: absolute;
+    width: 408px;
+    height: 257px;
+    left: 57px;
+    top: 3011px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.StaticSec2-img2{
+    position: absolute;
+    width: 437px;
+    height: 276px;
+    left: 408px;
+    top: 3178px;
+    
+}
+
+.StaticSec2-img3{
+    position: absolute;
+    width: 409px;
+    height: 257px;
+    left: 56px;
+    top: 3390px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.StaticSec2-arrow1{
+    position: absolute;
+    left: 7.22%;
+    right: 8.74%;
+    top: 39.15%;
+    bottom: -39.15%;
+    background: #000000;
+    transform: rotate(-25.18deg);
+}
+
+.StaticSec2-arrow1{
+    position: absolute;
+    left: 97.85%;
+    right: -81.89%;
+    top: 7.62%;
+    bottom: -7.62%;
+    background: #000000;
+    transform: rotate(72.71deg);
+
+
+}
+
+.StaticSec2-text-box1{
+    position: absolute;
+    width: 156px;
+    height: 45px;
+    left: 478px;
+    top: 3033px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 45px;
+    /* identical to box height, or 281% */
+
+
+    color: #747474;
+
+}
+
+.StaticSec2-text-box2{
+    position: absolute;
+    width: 190px;
+    height: 54px;
+    left: 165px;
+    top: 3298px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+
+    color: #747474;
+    
+}
+
+.StaticSec2-text-box3{
+    position: absolute;
+    width: 491px;
+    height: 128px;
+    left: 845px;
+    top: 3242px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 45px;
+    /* or 225% */
+
+
+    /* purple/purple80 */
+
+    color: #1C1E52;
+    
+}
+
+.StaticSec2-text-box4{
+    position: absolute;
+    width: 191px;
+    height: 45px;
+    left: 478px;
+    top: 3559px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 45px;
+    /* identical to box height, or 281% */
+
+
+    color: #747474;
+    
+}
+
+.StaticSec2-button{
+    position: absolute;
+    width: 178px;
+    height: 43px;
+    left: 844px;
+    top: 3353px;
+    color: #FFFFFF;
+    border: 0px;
+    background: #FF3503;
+    border-radius: 20px;
+}
